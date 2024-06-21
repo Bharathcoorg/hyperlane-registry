@@ -1,0 +1,5 @@
+staticMerkleRootMultisigIsmFactory: "0x0E665d5856eba43387642123818Bcfe81e49c241"
+staticMessageIdMultisigIsmFactory: "0x13a8F956D540bD50513b7aDD4E7ACbF2805f0c44"
+staticAggregationIsmFactory: "0xe605F414a0f3637c09Ed99dD432bF8f29a8d3e78"
+staticAggregationHookFactory: "0xd0d2E68925537d6861857BC22F505F6088978a9F"
+domainRoutingIsmFactory: "0x84912080A43Cf14425c797e9859392Fc2dAf35F0"
