@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../schema.json
+name: edgeware
+chainId: 2021
+domainId: 2021
+protocol: ethereum
+rpcUrls:
+  - http: https://edgeware-evm1.jelliedowl.net
+blocks:
+  confirmations: 1
+  reorgPeriod: 1
+  estimateBlockTime: 6
+nativeToken:
+      name: Edgeware
+      symbol: EDG
+      decimals: 18
