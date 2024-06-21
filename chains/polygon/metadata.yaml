@@ -5,9 +5,9 @@ blockExplorers:
     name: PolygonScan
     url: https://polygonscan.com
 blocks:
-  confirmations: 20
+  confirmations: 30
   estimateBlockTime: 2
-  reorgPeriod: 256
+  reorgPeriod: 30
 chainId: 137
 displayName: Polygon
 domainId: 137
@@ -20,6 +20,4 @@ nativeToken:
   symbol: MATIC
 protocol: ethereum
 rpcUrls:
-  - http: https://polygon-bor.publicnode.com
-  - http: https://polygon-rpc.com
-  - http: https://rpc.ankr.com/polygon
+  - http: https://polygon-mainnet.infura.io/v3/00ec1014e56d4435a0f0c22735c762b4
